@@ -1,9 +1,3 @@
 # github_poc
 added one 
-NKNKNK
-
-';
-;
-;
-;
-;
+updated with data
